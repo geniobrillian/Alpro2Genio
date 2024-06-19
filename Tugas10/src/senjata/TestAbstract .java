@@ -16,10 +16,5 @@ class TestAbstract {
         gun2.attack();
         gun2.attack();
 
-        // Demonstrasi metode final
-        //knife1.info();
-        //gun1.info();
-        //knife2.info();
-        //gun2.info();
     }
 }
